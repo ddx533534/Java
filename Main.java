@@ -77,3 +77,6 @@ public class Main {
         }
     }
 }
+class MainJava{
+	int id;
+}
